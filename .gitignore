@@ -206,3 +206,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Data files
+backend/data
+backend/data/*.csv
+data
+
+# macOS system files
+.DS_Store
+*/.DS_Store
